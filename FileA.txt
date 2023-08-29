@@ -1,4 +1,5 @@
 class Aluno {
    String nome;
    String mat;
+   Date dataNasc;
 }
