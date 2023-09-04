@@ -3,6 +3,6 @@ String area;
 String formacao;
    
 void printFormacao(){
-println("Area: " + formacao);
+println("Formacao: " + formacao);
 }
 }
