@@ -3,6 +3,6 @@ class Professor {
    String formacao;
    
    void printFormacao(){
-   	println(formacao);
+   	println("Formacao: " + formacao);
    }
 }
