@@ -1,8 +1,8 @@
 class Professor {
-   String area;
-   String formacao;
+String area;
+String formacao;
    
-   void printFormacao(){
-   	println(formacao);
-   }
+void printFormacao(){
+println("Area: " + formacao);
+}
 }
